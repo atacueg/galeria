@@ -1,5 +1,5 @@
 .banner__imagen{
-    background: url("../../img/banner.jpg") no-repeat center / cover;
+    background: url("/galeria/arquitectura-css-assets/assets/img/banner.jpg") no-repeat center / cover;
 
     width: 100%;
 }
